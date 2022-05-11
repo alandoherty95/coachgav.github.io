@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto+Slab&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+hr {
+    height: 0.1px;
+    background-color: #28a745;
+    border: none;
+}
+
+header {
+    width: 100%;
+}
+
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+.nav-pills .nav-link {
+    color: #000000;
+    margin: 1px;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #28a745;
+    color: #ffffff;
+}
+
+.outline {
+    font-family: 'Roboto Slab', serif;
+}
+
+mark {
+    background-color: #ffc107;
+}
+
+.btn {
+    margin: 0.5em;
+}
+
+.quote-text {
+    font-family: 'Roboto Slab', serif;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #ffffff;
+    background-color: #28a745;
+}
