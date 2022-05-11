@@ -16,17 +16,13 @@ header {
     width: 100%;
 }
 
-body {
-    font-family: 'Oswald', sans-serif;
-}
-
 .nav-pills .nav-link {
     color: #000000;
     margin: 1px;
 }
 
 .nav-pills .nav-link.active {
-    background-color: #28a745;
+    background-color: #198754;
     color: #ffffff;
 }
 
@@ -35,11 +31,19 @@ body {
 }
 
 mark {
-    background-color: #ffc107;
+    background-color: #198754;
+    color: #ffffff;
 }
 
 .btn {
     margin: 0.5em;
+    border-radius: 0%;
+}
+
+.btn-success:hover {
+    border-color: #198754;
+    background-color: #ffffff;
+    color: #198754;
 }
 
 .quote-text {
