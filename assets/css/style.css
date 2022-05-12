@@ -30,10 +30,12 @@ header {
     font-family: 'Roboto Slab', serif;
 }
 
+/*--
 mark {
     background-color: #198754;
     color: #ffffff;
 }
+--*/
 
 .btn {
     margin: 0.5em;
