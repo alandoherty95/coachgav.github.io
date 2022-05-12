@@ -1,5 +1,7 @@
 **[Coach Gav]()**
 
+python3 -m http.server
+
 Welcome to **[Coach Gav]()** - a static front-end website for Gavin Mullins.
 
 https://www.tiktok.com/@_coachgav_
