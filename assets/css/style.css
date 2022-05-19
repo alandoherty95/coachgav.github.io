@@ -56,3 +56,8 @@ mark {
     color: #ffffff;
     background-color: #28a745;
 }
+
+.accordion-button.collapsed {
+    color: #ffffff;
+    background-color: #808080;
+}
