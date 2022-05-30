@@ -8,7 +8,7 @@
 
 hr {
     height: 0.1px;
-    background-color: #28a745;
+    background-color: #00AEFF;
     border: none;
 }
 
@@ -22,7 +22,7 @@ header {
 }
 
 .nav-pills .nav-link.active {
-    background-color: #198754;
+    background-color: #00AEFF;
     color: #ffffff;
 }
 
@@ -32,7 +32,7 @@ header {
 
 /*--
 mark {
-    background-color: #198754;
+    background-color: #40c2ff;
     color: #ffffff;
 }
 --*/
@@ -42,10 +42,16 @@ mark {
     border-radius: 0%;
 }
 
+.btn-success {
+    border-color: #ffffff;
+    background-color: #00AEFF;
+    color: #ffffff;
+}
+
 .btn-success:hover {
-    border-color: #198754;
+    border-color: #00AEFF;
     background-color: #ffffff;
-    color: #198754;
+    color: #00AEFF;
 }
 
 .quote-text {
@@ -54,7 +60,7 @@ mark {
 
 .accordion-button:not(.collapsed) {
     color: #ffffff;
-    background-color: #28a745;
+    background-color: #00AEFF;
 }
 
 .accordion-button.collapsed {
