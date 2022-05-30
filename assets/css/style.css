@@ -37,6 +37,11 @@ mark {
 }
 --*/
 
+.card-header {
+    background-color: #000000;
+    color: #ffffff;
+}
+
 .btn {
     margin: 0.5em;
     border-radius: 0%;
