@@ -49,14 +49,14 @@ mark {
 
 .btn-success {
     border-color: #ffffff;
-    background-color: #00AEFF;
+    background-color: #008bcc;
     color: #ffffff;
 }
 
 .btn-success:hover {
-    border-color: #00AEFF;
+    border-color: #008bcc;
     background-color: #ffffff;
-    color: #00AEFF;
+    color: #008bcc;
 }
 
 .quote-text {
