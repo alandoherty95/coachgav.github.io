@@ -45,17 +45,15 @@ mark {
 .btn-success {
     border-color: #ffffff;
     background-color: #008bcc;
-    color: #ffffff;
+    color: hsl(0, 0%, 100%);
 }
 
-.btn-success:hover {
-    border-color: #008bcc;
-    background-color: #ffffff;
-    color: #008bcc;
-}
-
-.quote-text {
-    font-family: 'Roboto Slab', serif;
+.btn-success:hover,
+.btn-success:active,
+.btn-success:visited {
+    border-color: #008bcc !important;
+    background-color: #ffffff !important;
+    color: #008bcc !important;
 }
 
 .accordion-button:not(.collapsed) {
